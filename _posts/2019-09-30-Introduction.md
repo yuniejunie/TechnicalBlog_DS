@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 date: 2019-09-30 13:09:30 -0500
-categories: About Me
+categories: About_Me
 ---
 
 This is a page for the author's profile. 
