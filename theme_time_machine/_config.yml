@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Digital Portfolio for Data Science Projects.
 baseurl: /blog
 url: http://yuniejunie.github.io
-twitter_username: shinyuni
+twitter_username: shinyuni1
 github_username:  yuniejunie
 
 # Build settings
